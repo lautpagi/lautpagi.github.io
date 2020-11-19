@@ -355,7 +355,7 @@ nav ul.slide-menu {
 		display: block;
 	}
 	.content h1 {
-		font-size: 7em;
+		font-size: 5em;
 		margin-left: -80px;
 	}
 	.animation .egg {
@@ -373,8 +373,8 @@ nav ul.slide-menu {
 		display: flex;
 	}
 	.main-content h2 {
-		font-size: 20px;
-		width: 400px;
+		font-size: 15px;
+		width: 300px;
 	}
 	.main-info-lp {
 		width: 80%;
@@ -390,6 +390,7 @@ nav ul.slide-menu {
 		width: 80%;
 	}
 	.main-info-melihat {
+		margin-left: -60px;
 		width: 400px;
 	}
 	.footer {
