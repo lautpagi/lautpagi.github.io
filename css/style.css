@@ -2,10 +2,11 @@
 	margin: 0;
 	padding: 0;
 }
-body {
+html, body {
 	background-color: #307051;
 	color: #fff;
 	font-family: 'Montserrat', sans-serif;
+	width: 100%;
 	overflow-x: hidden;
 }
 section {
