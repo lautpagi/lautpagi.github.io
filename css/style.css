@@ -358,7 +358,7 @@ nav ul.slide-menu {
 		margin-left: -80px;
 	}
 	.animation .egg {
-		display: block;
+		display: none;
 		top: 80%;
 		right: 5%;
 		width: 50px;
