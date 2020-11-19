@@ -356,6 +356,7 @@ nav ul.slide-menu {
 	}
 	.content h1 {
 		font-size: 5em;
+		margin-top: -60px;
 		margin-left: -80px;
 	}
 	.animation .egg {
@@ -375,6 +376,7 @@ nav ul.slide-menu {
 	.main-content h2 {
 		font-size: 15px;
 		width: 300px;
+		margin-left: -1%;
 	}
 	.main-info-lp {
 		width: 80%;
